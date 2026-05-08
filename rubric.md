@@ -162,7 +162,7 @@
 
 **Submission:**
 - [x] Public GitHub repo URL submitted
-- [x] LangSmith project URL submitted (visible ≥ 100 total traces)
+- [] LangSmith project URL submitted (visible ≥ 100 total traces)
 - [x] No `.env` file committed; no API keys in source code
 
 **Penalty: −10 pts if API keys are found in committed code.**
